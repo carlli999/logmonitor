@@ -1,0 +1,7 @@
+C:\Users\java.ljlrwq-PC\Desktop\LogMonitorC\LogMonitorC\bin\Debug\LogMonitorC.exe
+C:\Users\java.ljlrwq-PC\Desktop\LogMonitorC\LogMonitorC\bin\Debug\LogMonitorC.pdb
+C:\Users\java.ljlrwq-PC\Desktop\LogMonitorC\LogMonitorC\obj\x86\Debug\LogMonitorC.Form1.resources
+C:\Users\java.ljlrwq-PC\Desktop\LogMonitorC\LogMonitorC\obj\x86\Debug\LogMonitorC.Properties.Resources.resources
+C:\Users\java.ljlrwq-PC\Desktop\LogMonitorC\LogMonitorC\obj\x86\Debug\LogMonitorC.csproj.GenerateResource.Cache
+C:\Users\java.ljlrwq-PC\Desktop\LogMonitorC\LogMonitorC\obj\x86\Debug\LogMonitorC.exe
+C:\Users\java.ljlrwq-PC\Desktop\LogMonitorC\LogMonitorC\obj\x86\Debug\LogMonitorC.pdb
